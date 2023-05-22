@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Higor Mazza
 - 👨‍💻 I have a background in Chemistry and Materials Science with emphasis on renewable energy. Currently,
-I am transitioning to the fields of data science and data analytics.
-- 🤖 Right now, I'm interested in machine-learning, NLP and advanced SQL concepts to enhance my portifolio 
-and I am also seeking my first opportunity in data science.
+I am transitioning to the fields of Data Science and Data Analytics.
+- 🤖 Right now, I'm interested in machine-learning, NLP and AI tools to enhance my portifolio 
+and I'm actively seeking my first opportunity in the field of data science.
 
 - 📧 You can contact me:
 <a href="https://www.linkedin.com/in/higormazza/">LinkedIn</a>
