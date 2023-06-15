@@ -4,7 +4,7 @@ I am transitioning to the fields of Data Science and Data Analytics.
 - 🤖 Right now, I'm interested in machine-learning, NLP and AI tools to enhance my portifolio 
 and I'm actively seeking my first opportunity in the field of data science.
 
-- 📧 You can contact me:
+- 📧 You can contact me here:
 <a href="https://www.linkedin.com/in/higormazza/">LinkedIn</a>
 
 <!---
